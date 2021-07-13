@@ -1,4 +1,4 @@
-# React Native With NativeBase Typescript
+# React Native Template With NativeBase Typescript
 
 ## Usage
 
