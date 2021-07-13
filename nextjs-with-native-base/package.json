@@ -1,9 +1,9 @@
 {
   "name": "with-react-native-web",
   "scripts": {
-    "dev": "next",
-    "build": "next build",
-    "start": "next start"
+    "dev": "node init && next",
+    "build": "node init && next build",
+    "start": "node init && next start"
   },
   "dependencies": {
     "native-base": "^3.0.3",
